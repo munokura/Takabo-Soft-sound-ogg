@@ -1,0 +1,147 @@
+▼このファイルについて
+Takabo Soft様に加工した音楽素材の再配布許可をいただきました。
+こちらはTakabo Soft様で配布されているmidiファイルにループ処理を施し、oggに変換したものをパッケージしたものになります。
+
+オリジナル配布元
+http://takabosoft.com/
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+
+▼表示クレジット
+編集: fungamemake.com / 著作者:Takabo Soft ( http://takabosoft.com/ )
+
+
+▼ファイル名と曲名
+ファイル名の後ろに'_l'がついているものはループ処理されています。
+一部ループさせるのが困難な曲があり、それは原曲のままoggにコンバートしています。一応のループ処理は全てに入っていますが、正しくループできていないと判断した8曲には'_l'をつけていません。
+
+BGM(ループ有):107
+BGM(ループ無):14
+
+
+ファイル名	曲名
+Achievement	Achievement / Stage Clear
+Attack_l	Attack / Stage3
+Beating_l	Beating / Stage1
+Boss_l	Boss / Boss
+Report_l	Report / Report
+Ruin_l	Ruin / Stage6
+Select_l	Select / Machine Select
+Spaceflight_l	Spaceflight / Stage4
+SpaceTime_l	Space Time / Ranking
+SpaceWalk_l	Space Walk / Stage2
+Terror_l	Terror / Stage5
+S0_Boss_l	S0 ボス
+S0_CharSelect_l	S0 キャラセレクト
+S0_LastBoss_l	S0 ラストボス
+S0_Stage1_l	S0 ステージ1
+S0_Stage2_l	S0 ステージ2
+S0_Stage3_l	S0 ステージ3
+S0_Stage4_l	S0 ステージ4
+S0_Title_l	S0 タイトル
+S1_Boss_l	S1 ボス
+S1_LastBoss_l	S1 ラストボス
+S1_Stage1_l	S1 ステージ1
+S1_Stage2_l	S1 ステージ2
+S1_Stage3_l	S1 ステージ3
+S1_Stage4_l	S1 ステージ4
+S1_Title_l	S1 タイトル
+S2_Boss_l	S2 ボス
+S2_CharSelect_l	S2 キャラセレクト
+S2_LastBoss_l	S2 ラストボス
+S2_Stage1_l	S2 ステージ1
+S2_Stage2_l	S2 ステージ2
+S2_Stage3_l	S2 ステージ3
+S2_Stage4_l	S2 ステージ4
+S2_Title_l	S2 タイトル
+S3_Boss_l	S3 ボス
+S3_LastBoss_l	S3 ラストボス
+S3_Stage1_l	S3 ステージ1
+S3_Stage2_l	S3 ステージ2
+S3_Stage3_l	S3 ステージ3
+S3_Stage4_l	S3 ステージ4
+S3_Title_l	S3 タイトル
+S4_Boss_l	S4 ボス
+S4_LastBoss_l	S4 ラストボス
+S4_Stage1_l	S4 ステージ1
+S4_Stage2_l	S4 ステージ2
+S4_Stage3_l	S4 ステージ3
+S4_Stage4_l	S4 ステージ4
+S4_Title_l	S4 タイトル
+S5_Boss_l	S5 ボス
+S5_LastBoss_l	S5 ラストボス
+S5_Stage1_l	S5 ステージ1
+S5_Stage2_l	S5 ステージ2
+S5_Stage3_l	S5 ステージ3
+S5_Stage4_l	S5 ステージ4
+S5_Title_l	S5 タイトル
+S6_Boss_l	S6 ボス
+S6_LastBoss_l	S6 ラストボス
+S6_Stage1_l	S6 ステージ1
+S6_Stage2_l	S6 ステージ2
+S6_Stage3_l	S6 ステージ3
+S6_Stage4_l	S6 ステージ4
+S6_Title_l	S6 タイトル
+S7_Boss_l	S7 ボス
+S7_LastBoss_l	S7 ラストボス
+S7_Stage1_l	S7 ステージ1
+S7_Stage2_l	S7 ステージ2
+S7_Stage3_l	S7 ステージ3
+S7_Stage4_l	S7 ステージ4
+S7_Title_l	S7 タイトル
+mahjong_GoodHeart_HouseMix_l	Good Heart
+mahjong_GoodHeart_l	Good Heart - House Mix -
+mahjong_Jingle_GameClear	ゲームクリア
+mahjong_Jingle_GameOver	ゲームオーバー
+mahjong_Jingle_Lose	敗北
+mahjong_Jingle_Ryukyoku	流局
+mahjong_Jingle_Win	勝利
+mahjong_OneDay_l	ある日
+BOMB3_00_l	たかぼーのテーマVer2.1
+BOMB3_01_l	READY GO!!!!
+BOMB3_02_l	爆弾のテーマ
+BOMB3_03_l	RUN!!!
+BOMB4_00_l	たかぼーのテーマVer3.0
+BOMB4_01_l	習作NO.4
+BOMB4_02_l	極楽のテーマ
+BOMB4_03_l	急げ!急げ!のテーマ
+BOMB4_04_l	戦闘のテーマ
+BOMB4_05	緊迫のテーマ
+BOMB4_06_l	星のテーマ
+PEN_BG00_l	町のテーマ
+PEN_BG01	森のテーマ
+SB_BG_04_l	FLY ME TO THE SUN
+SB1_00_l	メインテーマ
+SB1_01_l	これならどーだ
+SN1_00	メインテーマ
+SN1_01	たかぼーのテーマVer1
+SN1_02_l	エンディング
+SN1_03_l	オープニング
+SN2_00_l	森のテーマ
+SN2_01_l	大魔王の別荘突入
+SN2_02_l	戦闘のテーマVer0.5
+SN2_03_l	たかぼーのテーマVer2
+SN2_04_l	エンディング
+SN2_05	ボス戦
+SN2_06	洞窟のテーマ
+SN2_07_l	浜のテーマ
+SN2_08	海のテーマ
+SN3_00_l	新たな冒険のテーマ
+SN3_04_l	怪しげな町のテーマ
+SN3_05_l	危険な城のテーマ
+SN3_06_l	噂のテーマ
+SN3_08_l	宇宙船たかぼー号のテーマ
+SN3_09_l	火星のテーマ
+SN3_10_l	迫る危機のテーマ
+SN3_12_l	異次元のテーマ
+SN3_13_l	冒険の終わりのテーマ
+SS1_00_l	中ボスのテーマ
+SS1_01_l	野原のテーマ
+SS1_02_l	エンディング
+SS1_03_l	たかぼーのテーマVer2
+SS1_04_l	最終戦闘のテーマ
+ST1_00	戦闘のテーマ
